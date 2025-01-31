@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "datafcgithub"
 		},
+		"ls_src_adls_accountKey": {
+			"value": ""
+		},
+		"ls_src_adls_properties_typeProperties_url": {
+			"value": "https://nyctaxistorage001.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
